@@ -1,0 +1,1 @@
+[![Node.js CI](https://github.com/Atlegang70/first_terminal_test_updated/actions/workflows/node.js.yml/badge.svg)](https://github.com/Atlegang70/first_terminal_test_updated/actions/workflows/node.js.yml)
